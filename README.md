@@ -6,7 +6,7 @@
 * la deuxième personne ferme tous les tiroirs dont le numéro est pair ;
 * la 3e personne s'intéresse aux tiroirs dont le numéro est multiple de 3 : 
   * si le tiroir est ouvert elle le ferme
-  * si le tirour est fermé elle l'ouvre
+  * si le tiroir est fermé elle l'ouvre
 * la 4e personne s'intéresse aux tiroirs multiple de 4
 * et ainsi de suite jusqu'à la 100e personne
 
