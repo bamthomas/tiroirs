@@ -11,3 +11,17 @@
 * et ainsi de suite jusqu'à la 100e personne
 
 Après le passage de toutes les personnes combien et quels tiroirs sont ouverts ?
+
+# Pour l'utiliser
+
+Installer les dépendances avec [poetry](https://python-poetry.org/) : 
+
+```shell
+poetry install
+```
+
+Puis lancer le notebook :
+
+```shell
+poetry run jupyter notebook
+```
